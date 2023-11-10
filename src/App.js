@@ -20,6 +20,7 @@ function App() {
       </header>
       <div>
         <h1>Adding new feature</h1>
+        
       </div>
     </div>
   );
